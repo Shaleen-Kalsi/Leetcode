@@ -1,2 +1,2 @@
 # Leetcode
-This repo for tracking my solutions to LeetCode questions
+This repo is for tracking my progress in solving LeetCode questions.
